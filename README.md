@@ -36,3 +36,6 @@ I wish I was told before starting this project :
 - about [*Effective Java*](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 - not to do it in Java anyway, because it's not a good tool for making exotic projects from scratch. 90% of our thinking time was dedicated to incidental software complexity. We would have taken this much further with a language like Clojure or OCaml, even with the learning time.
 
+## Code welkthrough
+
+Yeah, it's in French... we didn't know any better at the time. Looking back on it, this code feels quite amateur anyway, not a great read.
