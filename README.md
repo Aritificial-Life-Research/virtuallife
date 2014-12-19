@@ -21,18 +21,18 @@ The most interesting results were obtained by:
 
 ## Lessons learned
 
-### A. About artificial life
+### A. On artificial life
 
 - We thought that we could make evolution go fast because computers go fast. Actually, computers have enormously less information processing power than most living beings.
 - It's not that easy to come up with a simple problem for which the optimal solution is (infinitely) complex.
 
-### B. About programming
+### B. On programming
 
 This was my first significant software project, and is a good example of someone reinventing the wheel when he doesn't know about wheels.
 
 I wish I was told before starting this project :
-- about design patterns (I recreated several of them in this project, but it took time and thinking to get there)
+- about [design patterns](http://c2.com/cgi/wiki?DesignPatternsBook) (I recreated several of them in this project, but it took time and thinking to get there)
 - about version control
-- about *Effective Java* by Joshua Bloch
+- about [*Effective Java*](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 - not to do it in Java anyway, because it's not a good tool for making exotic projects from scratch. 90% of our thinking time was dedicated to incidental software complexity. We would have taken this much further with a language like Clojure or OCaml, even with the learning time.
 
